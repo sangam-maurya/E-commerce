@@ -1,0 +1,15 @@
+body {
+    background-color: #eaf1f7; /* Light water color background for the entire page */
+}
+
+.container {
+    background-color: #ffffff; /* White background for the form */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+    padding: 20px; /* Padding inside the container */
+}
+
+.btn {
+    margin-top: 10px; /* Space between button and form elements */
+    font-size: 0.9rem; /* Slightly smaller button text */
+}

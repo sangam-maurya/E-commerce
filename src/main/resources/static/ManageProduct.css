@@ -1,0 +1,24 @@
+/* Basic styling for product management page */
+
+/* Style for product images */
+.product-img {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+}
+
+/* Additional table styling */
+.table-hover tbody tr:hover {
+    background-color: #f1f1f1;
+}
+
+/* Centering the text and buttons in the table */
+.table td, .table th {
+    vertical-align: middle;
+    text-align: center;
+}
+
+/* Customize buttons */
+.btn-warning {
+    margin-right: 10px;
+}
